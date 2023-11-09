@@ -1,0 +1,15 @@
+C:\Users\Lakshmana\source\repos\Tp Whitelist Servidor\Tp Whitelist Servidor\bin\Debug\net6.0\Tp Whitelist Servidor.exe
+C:\Users\Lakshmana\source\repos\Tp Whitelist Servidor\Tp Whitelist Servidor\bin\Debug\net6.0\Tp Whitelist Servidor.deps.json
+C:\Users\Lakshmana\source\repos\Tp Whitelist Servidor\Tp Whitelist Servidor\bin\Debug\net6.0\Tp Whitelist Servidor.runtimeconfig.json
+C:\Users\Lakshmana\source\repos\Tp Whitelist Servidor\Tp Whitelist Servidor\bin\Debug\net6.0\Tp Whitelist Servidor.dll
+C:\Users\Lakshmana\source\repos\Tp Whitelist Servidor\Tp Whitelist Servidor\bin\Debug\net6.0\Tp Whitelist Servidor.pdb
+C:\Users\Lakshmana\source\repos\Tp Whitelist Servidor\Tp Whitelist Servidor\obj\Debug\net6.0\Tp Whitelist Servidor.csproj.AssemblyReference.cache
+C:\Users\Lakshmana\source\repos\Tp Whitelist Servidor\Tp Whitelist Servidor\obj\Debug\net6.0\Tp Whitelist Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshmana\source\repos\Tp Whitelist Servidor\Tp Whitelist Servidor\obj\Debug\net6.0\Tp Whitelist Servidor.AssemblyInfoInputs.cache
+C:\Users\Lakshmana\source\repos\Tp Whitelist Servidor\Tp Whitelist Servidor\obj\Debug\net6.0\Tp Whitelist Servidor.AssemblyInfo.cs
+C:\Users\Lakshmana\source\repos\Tp Whitelist Servidor\Tp Whitelist Servidor\obj\Debug\net6.0\Tp Whitelist Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Lakshmana\source\repos\Tp Whitelist Servidor\Tp Whitelist Servidor\obj\Debug\net6.0\Tp Whitelist Servidor.dll
+C:\Users\Lakshmana\source\repos\Tp Whitelist Servidor\Tp Whitelist Servidor\obj\Debug\net6.0\refint\Tp Whitelist Servidor.dll
+C:\Users\Lakshmana\source\repos\Tp Whitelist Servidor\Tp Whitelist Servidor\obj\Debug\net6.0\Tp Whitelist Servidor.pdb
+C:\Users\Lakshmana\source\repos\Tp Whitelist Servidor\Tp Whitelist Servidor\obj\Debug\net6.0\Tp Whitelist Servidor.genruntimeconfig.cache
+C:\Users\Lakshmana\source\repos\Tp Whitelist Servidor\Tp Whitelist Servidor\obj\Debug\net6.0\ref\Tp Whitelist Servidor.dll

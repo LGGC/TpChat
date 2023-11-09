@@ -1,0 +1,15 @@
+C:\Users\Lakshmana\source\repos\Tp Whitelist 2023\Tp Whitelist 2023\bin\Debug\net6.0\Tp Whitelist 2023.exe
+C:\Users\Lakshmana\source\repos\Tp Whitelist 2023\Tp Whitelist 2023\bin\Debug\net6.0\Tp Whitelist 2023.deps.json
+C:\Users\Lakshmana\source\repos\Tp Whitelist 2023\Tp Whitelist 2023\bin\Debug\net6.0\Tp Whitelist 2023.runtimeconfig.json
+C:\Users\Lakshmana\source\repos\Tp Whitelist 2023\Tp Whitelist 2023\bin\Debug\net6.0\Tp Whitelist 2023.dll
+C:\Users\Lakshmana\source\repos\Tp Whitelist 2023\Tp Whitelist 2023\bin\Debug\net6.0\Tp Whitelist 2023.pdb
+C:\Users\Lakshmana\source\repos\Tp Whitelist 2023\Tp Whitelist 2023\obj\Debug\net6.0\Tp Whitelist 2023.csproj.AssemblyReference.cache
+C:\Users\Lakshmana\source\repos\Tp Whitelist 2023\Tp Whitelist 2023\obj\Debug\net6.0\Tp Whitelist 2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshmana\source\repos\Tp Whitelist 2023\Tp Whitelist 2023\obj\Debug\net6.0\Tp Whitelist 2023.AssemblyInfoInputs.cache
+C:\Users\Lakshmana\source\repos\Tp Whitelist 2023\Tp Whitelist 2023\obj\Debug\net6.0\Tp Whitelist 2023.AssemblyInfo.cs
+C:\Users\Lakshmana\source\repos\Tp Whitelist 2023\Tp Whitelist 2023\obj\Debug\net6.0\Tp Whitelist 2023.csproj.CoreCompileInputs.cache
+C:\Users\Lakshmana\source\repos\Tp Whitelist 2023\Tp Whitelist 2023\obj\Debug\net6.0\Tp Whitelist 2023.dll
+C:\Users\Lakshmana\source\repos\Tp Whitelist 2023\Tp Whitelist 2023\obj\Debug\net6.0\refint\Tp Whitelist 2023.dll
+C:\Users\Lakshmana\source\repos\Tp Whitelist 2023\Tp Whitelist 2023\obj\Debug\net6.0\Tp Whitelist 2023.pdb
+C:\Users\Lakshmana\source\repos\Tp Whitelist 2023\Tp Whitelist 2023\obj\Debug\net6.0\Tp Whitelist 2023.genruntimeconfig.cache
+C:\Users\Lakshmana\source\repos\Tp Whitelist 2023\Tp Whitelist 2023\obj\Debug\net6.0\ref\Tp Whitelist 2023.dll
